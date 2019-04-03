@@ -1,9 +1,9 @@
-Package: AutomatedML
+Package: Automated-ML-Tool
 Type: Package
 Title: OpenCPU Application
 Version: 1.0
 Date: 2019-02-26
-Author: Sai Prasadh
-Maintainer: Sai Prasadh <sai.prasadh@xyz.com>
+Author: Yamini Pandari
+Maintainer: Yamini Pamndari
 Description: This package enables AA Tool
 LazyData: true
