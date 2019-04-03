@@ -2,6 +2,8 @@ exploreDf <- function(df_full, dv) {
 
 data<-df_full
 
+
+
 #add string for data summary
 Summary_df <- data.frame(unclass(summary(data)), check.names = FALSE, stringsAsFactors = FALSE)
 writeLines("Summary of Input Data", con = "LogFile.txt", sep = '\n')
